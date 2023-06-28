@@ -53,7 +53,7 @@
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
   </a>
     </a>
-     <a href="https://www.figma.com/" target="_blank">
+     <a href="https://nextjs.org" target="_blank">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="figma logo"  />
   </a>
    
